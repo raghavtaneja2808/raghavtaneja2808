@@ -9,7 +9,7 @@ i build practical products and automation that people use. current focus: node.j
 ---
 
 ## projects (quick)
-- **Attendly** — attendance & student utility (1000+ users).  
+- **Attendly** — attendance & student utility (2000+ users).  
   https://github.com/raghavtaneja2808/attendly
 
 - **CheatBuddy** — automation-based Q&A helper (study aid).  
